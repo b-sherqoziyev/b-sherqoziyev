@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Salom, men Bahromjon Sherqo‘ziyev
 
-<!--
-**b-sherqoziyev/b-sherqoziyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Men dasturlashga qiziqadigan va yangi loyihalar yaratishga intiladigan yosh dasturchiman. Hozirda asosan **Python** va **Telegram botlar** bilan ishlayman, shuningdek, veb-ishlanmalar va sun’iy intellekt texnologiyalarini o‘rganmoqdaman.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Texnologiyalar va ko‘nikmalar:
+- **Dasturlash tillari:** Python, JavaScript
+- **Frameworklar & kutubxonalar:** Aiogram, FastAPI, Django, Flask
+- **Ma’lumotlar bazasi:** PostgreSQL, SQLite
+- **Veb texnologiyalar:** HTML, CSS, TailwindCSS
+- **Boshqa:** Git, GitHub, Docker
+
+---
+
+### 📈 Mening statistikalarim:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=b-sherqoziyev&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-sherqoziyev&layout=compact&theme=radical)
+
+---
+
+### 📫 Menga bog‘lanish:
+- Telegram: [@your_username](https://t.me/your_username)
+- Email: your_email@example.com
+- LinkedIn: [Bahromjon Sherqo‘ziyev](https://linkedin.com/in/your-profile)
+
+---
+
+⭐️ Profilimni kuzatib boring, tez orada yangi loyihalar chiqadi!
