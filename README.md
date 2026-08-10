@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24&height=220&section=header&text=Bahromjon%20Sherqoziyev&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Software%20Engineer%20%7C%20Python%20%E2%80%A2%20AI%20+%20RAG%20%E2%80%A2%20Spring%20Boot&descFontSize=18&descAlignY=60&descColor=61afef" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24&height=220&section=header&text=Bahromjon%20Sherqoziyev&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Software%20Engineer%20%7C%20Python%20%E2%80%A2%20AI%20+%20RAG%20%E2%80%A2%20Java%20Core&descFontSize=18&descAlignY=60&descColor=61afef" width="100%"/>
 </div>
 
 <div align="center">
@@ -11,7 +11,7 @@
 
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=61AFEF&center=true&vCenter=true&width=620&lines=Backend+Software+Engineer+%F0%9F%9A%80;Python+%2F+Django+%2F+FastAPI+%2F+Aiogram;AI+Integrations+%2B+RAG+Architectures;Java+%2F+Spring+Boot+%2B+Clean+Architecture;High-Performance+Scalable+REST+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=61AFEF&center=true&vCenter=true&width=620&lines=Backend+Software+Engineer+%F0%9F%9A%80;Python+%2F+Django+%2F+FastAPI+%2F+Aiogram;AI+Integrations+%2B+RAG+Architectures;Java+Core+%26+OOP+Principles;High-Performance+Scalable+REST+APIs" alt="Typing SVG" />
 
 </div>
 
@@ -19,11 +19,11 @@
 
 ### 👨‍💻 Profil & Muhandislik Falsafasi
 
-Men **Python (Django, FastAPI)** va **Java (Spring Boot)** ekotizimida xavfsiz, yuqori yuklamalarga chidamli hamda kengayuvchan backend tizimlar va **AI (RAG / LLM)** integratsiyalarini ishlab chiquvchi Backend muhandisman.
+Men **Python (Django, FastAPI)** ekotizimida xavfsiz, yuqori yuklamalarga chidamli hamda kengayuvchan backend tizimlar, Telegram platformalari va **AI (RAG / LLM)** integratsiyalarini ishlab chiquvchi Backend muhandisman. Shuningdek, dasturlash asoslari va algoritmlarda **Java (Core, OOP)** bilimlaridan foydalanaman.
 
-- 🔭 **Asosiy yo'nalishlar:** Clean Architecture, Domain-Driven Design (DDD), Microservices, Asinxron tizimlar va Ma'lumotlar bazasi optimizatsiyasi (Indexing, Connection pooling, Query tuning).
+- 🔭 **Asosiy yo'nalishlar:** Clean Architecture, Asinxron tizimlar (Asyncio, Celery, WebSockets) va Ma'lumotlar bazasi optimizatsiyasi (Indexing, Connection pooling, Query tuning).
 - 🧠 **AI & LLM:** Google Gemini API, LangChain, FAISS va `pgvector` orqali semantik qidiruv va kontekstual RAG agentlari.
-- ⚙️ **Ishlash tamoyillarim:** Toza kod (Clean Code), SOLID, Test Driven Mindset va xavfsiz arxitektura.
+- ⚙️ **Ishlash tamoyillarim:** Toza kod (Clean Code), SOLID tamoyillari, modul arxitektura va xavfsizlik.
 
 ---
 
@@ -34,7 +34,7 @@ Men **Python (Django, FastAPI)** va **Java (Spring Boot)** ekotizimida xavfsiz, 
     <td width="22%"><strong>Dasturlash tillari</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Java_17+-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java_(Core_%26_OOP)-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
     </td>
@@ -45,8 +45,8 @@ Men **Python (Django, FastAPI)** va **Java (Spring Boot)** ekotizimida xavfsiz, 
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
       <img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square&logo=django&logoColor=white"/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
       <img src="https://img.shields.io/badge/Aiogram_3.x-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Uvicorn-499848?style=flat-square&logo=gunicorn&logoColor=white"/>
     </td>
   </tr>
   <tr>
