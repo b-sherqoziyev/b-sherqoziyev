@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24&height=220&section=header&text=Bahromjon%20Sherqo'ziyev&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Software%20Engineer%20%7C%20Python%20%E2%80%A2%20AI%20%26%20RAG%20%E2%80%A2%20Spring%20Boot&descFontSize=18&descAlignY=60&descColor=61afef" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24&height=220&section=header&text=Bahromjon%20Sherqoziyev&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Software%20Engineer%20%7C%20Python%20%E2%80%A2%20AI%20+%20RAG%20%E2%80%A2%20Spring%20Boot&descFontSize=18&descAlignY=60&descColor=61afef" width="100%"/>
 </div>
 
 <div align="center">
@@ -11,7 +11,7 @@
 
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=61AFEF&center=true&vCenter=true&width=620&lines=Backend+Software+Engineer+%F0%9F%9A%80;Python+%2F+Django+%2F+FastAPI+%2F+Aiogram;AI+Integrations+%26+RAG+Architectures;Java+%2F+Spring+Boot+%26+Clean+Architecture;High-Performance+Scalable+REST+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=61AFEF&center=true&vCenter=true&width=620&lines=Backend+Software+Engineer+%F0%9F%9A%80;Python+%2F+Django+%2F+FastAPI+%2F+Aiogram;AI+Integrations+%2B+RAG+Architectures;Java+%2F+Spring+Boot+%2B+Clean+Architecture;High-Performance+Scalable+REST+APIs" alt="Typing SVG" />
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ### 👨‍💻 Profil & Muhandislik Falsafasi
 
-Men **Python (Django, FastAPI)** va **Java (Spring Boot)** ekotizimida xavfsiz, yuqori yuklamalarga chidamli (high-throughput) hamda kengayuvchan (scalable) backend tizimlar va **AI (RAG/LLM)** integratsiyalarini ishlab chiquvchi Backend muhandisman.
+Men **Python (Django, FastAPI)** va **Java (Spring Boot)** ekotizimida xavfsiz, yuqori yuklamalarga chidamli hamda kengayuvchan backend tizimlar va **AI (RAG / LLM)** integratsiyalarini ishlab chiquvchi Backend muhandisman.
 
 - 🔭 **Asosiy yo'nalishlar:** Clean Architecture, Domain-Driven Design (DDD), Microservices, Asinxron tizimlar va Ma'lumotlar bazasi optimizatsiyasi (Indexing, Connection pooling, Query tuning).
 - 🧠 **AI & LLM:** Google Gemini API, LangChain, FAISS va `pgvector` orqali semantik qidiruv va kontekstual RAG agentlari.
@@ -31,7 +31,7 @@ Men **Python (Django, FastAPI)** va **Java (Spring Boot)** ekotizimida xavfsiz, 
 
 <table>
   <tr>
-    <td width="20%"><strong>Dasturlash tillari</strong></td>
+    <td width="22%"><strong>Dasturlash tillari</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Java_17+-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -54,7 +54,7 @@ Men **Python (Django, FastAPI)** va **Java (Spring Boot)** ekotizimida xavfsiz, 
     <td>
       <img src="https://img.shields.io/badge/Google_Gemini_API-8E75C2?style=flat-square&logo=googlegemini&logoColor=white"/>
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-      <img src="https://img.shields.io/badge/RAG_%26_FAISS-005A9C?style=flat-square&logo=meta&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RAG_%2B_FAISS-005A9C?style=flat-square&logo=meta&logoColor=white"/>
       <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
       <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
     </td>
@@ -71,11 +71,11 @@ Men **Python (Django, FastAPI)** va **Java (Spring Boot)** ekotizimida xavfsiz, 
     </td>
   </tr>
   <tr>
-    <td><strong>DevOps, Asboblar & Boshqaruv</strong></td>
+    <td><strong>DevOps & Asboblar</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Git_%26_GitHub-F05032?style=flat-square&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git_%2F_GitHub-F05032?style=flat-square&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/Swagger_%2F_OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
@@ -85,7 +85,7 @@ Men **Python (Django, FastAPI)** va **Java (Spring Boot)** ekotizimida xavfsiz, 
 
 ---
 
-### 🚀 Tanlangan Asosiy Loyihalar (Featured Projects)
+### 🚀 Tanlangan Loyihalar (Featured Projects)
 
 <table>
   <thead>
@@ -98,7 +98,7 @@ Men **Python (Django, FastAPI)** va **Java (Spring Boot)** ekotizimida xavfsiz, 
   <tbody>
     <tr>
       <td><strong>⚖️ JuristMind AI</strong><br/><em>AI-Powered Legal Assistant</em></td>
-      <td>O'zbekiston qonunchiligi bo'yicha semantik qidiruv va RAG arxitekturasi orqali moddalar bilan aniq javob beruvchi intellektual yordamchi tizim.</td>
+      <td>O'zbekiston qonunchiligi bo'yicha semantik qidiruv va RAG arxitekturasi orqali rasmiy moddalar bilan javob beruvchi intellektual tizim.</td>
       <td><code>Python</code> <code>Aiogram 3</code> <code>PostgreSQL</code> <code>pgvector</code> <code>Gemini API</code></td>
     </tr>
     <tr>
@@ -113,7 +113,7 @@ Men **Python (Django, FastAPI)** va **Java (Spring Boot)** ekotizimida xavfsiz, 
     </tr>
     <tr>
       <td><strong>💬 MindTwin XTalk</strong><br/><em>Real-time Anonymous Matchmaker</em></td>
-      <td>Telegram Mini App (TMA) ichida WebSockets protokoli orqali kechikishlarsiz (low-latency) jonli anonim suhbat tizimi.</td>
+      <td>Telegram Mini App ichida WebSockets protokoli orqali kechikishlarsiz (low-latency) jonli anonim suhbat tizimi.</td>
       <td><code>FastAPI</code> <code>WebSockets</code> <code>Telegram Mini App</code> <code>Uvicorn</code></td>
     </tr>
     <tr>
@@ -134,25 +134,14 @@ Men **Python (Django, FastAPI)** va **Java (Spring Boot)** ekotizimida xavfsiz, 
 ### 📊 GitHub Tahlil & Statistikasi
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="165em" src="https://github-readme-stats.vercel.app/api?username=b-sherqoziyev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=61afef&icon_color=61afef&text_color=a0aec0&bg_color=0d1117" />
-      </td>
-      <td>
-        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-sherqoziyev&layout=compact&theme=tokyonight&hide_border=true&title_color=61afef&text_color=a0aec0&bg_color=0d1117" />
-      </td>
-    </tr>
-  </table>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=b-sherqoziyev&theme=tokyonight&hide_border=true&stroke=61afef&ring=61afef&fire=61afef&background=0d1117" alt="GitHub Streak" width="96%" />
+  <img src="https://streak-stats.demolab.com/?user=b-sherqoziyev&theme=tokyonight&hide_border=true&stroke=61afef&ring=61afef&fire=61afef&background=0d1117" alt="GitHub Streak" width="96%" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=b-sherqoziyev&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="96%" />
 </div>
 
 ---
 
 ### 🤝 Hamkorlik va Aloqa
-
-Agar sizda qiziqarli loyiha, arxitektura bo'yicha maslahat yoki hamkorlik takliflari bo'lsa — bemalol bog'lanishingiz mumkin!
 
 <div align="center">
   <a href="https://t.me/bahromjon_py" target="_blank">
