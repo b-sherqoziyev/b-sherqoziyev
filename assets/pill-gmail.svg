@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="319" height="44" viewBox="0 0 319 44" role="img" aria-label="GMAIL: bahromjonsherqoziyev"><title>GMAIL: bahromjonsherqoziyev</title>
+<defs><clipPath id="c"><rect width="319" height="44" rx="22"/></clipPath></defs>
+<g clip-path="url(#c)">
+  <rect width="91" height="44" fill="#161a36"/>
+  <rect x="91" width="228" height="44" fill="#f87171"/>
+  <rect x="91" width="228" height="44" fill="#ffffff" opacity="0"><animate attributeName="opacity" values="0;0.12;0" dur="3s" repeatCount="indefinite"/></rect>
+</g>
+<rect x="0.5" y="0.5" width="318" height="43" rx="21.5" fill="none" stroke="#f87171" stroke-opacity="0.8"/>
+<text x="45.5" y="28" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" letter-spacing="1.6" fill="#c9cdf0">GMAIL</text>
+<text x="205.0" y="28" text-anchor="middle" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="700" fill="#0a0c16">bahromjonsherqoziyev</text>
+</svg>

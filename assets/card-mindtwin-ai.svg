@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="262" viewBox="0 0 620 262" role="img" aria-label="MindTwin AI — AI Persona Microservice"><title>MindTwin AI — AI Persona Microservice</title>
+<defs>
+<linearGradient id="cg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a855f7"/><stop offset="1" stop-color="#a855f7"/></linearGradient>
+<linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#a855f7" stop-opacity="0"/><stop offset="0.5" stop-color="#a855f7"/><stop offset="1" stop-color="#a855f7" stop-opacity="0"/></linearGradient>
+<clipPath id="cl"><rect x="1" y="1" width="618" height="260" rx="20"/></clipPath>
+</defs>
+<rect x="1" y="1" width="618" height="260" rx="20" fill="#10132a" stroke="#252a52"/>
+<g clip-path="url(#cl)">
+  <circle cx="580" cy="-10" r="130" fill="#a855f7" opacity="0.10"/>
+  <rect x="-300" y="1" width="300" height="3" fill="url(#sweep)"><animate attributeName="x" values="-300;620" dur="4.5s" repeatCount="indefinite"/></rect>
+</g>
+<rect x="30" y="26" width="52" height="52" rx="14" fill="url(#cg)"/>
+<text x="56" y="62" text-anchor="middle" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="28" font-weight="800" fill="#ffffff">M</text>
+<text x="98" y="48" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="21" font-weight="800" fill="#e8eaf6">MindTwin AI</text>
+<text x="98" y="69" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#8b91b0">AI Persona Microservice</text>
+<rect x="486" y="34" width="104" height="28" rx="14" fill="#fbbf24" fill-opacity="0.13" stroke="#fbbf24" stroke-opacity="0.55"/>
+<circle cx="502" cy="50" r="4.5" fill="#fbbf24"><animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="514" y="52.5" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#fbbf24">Jarayonda</text>
+<line x1="30" x2="590" y1="92" y2="92" stroke="#252a52"/>
+<text x="30" y="128" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14.5" fill="#b9bedb">Foydalanuvchi nutq uslubi va fikrlash tarzini o'rganib, xotiraga</text><text x="30" y="151" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14.5" fill="#b9bedb">ega bo'lgan asinxron mikroservis sifatida muloqot namunasini aks</text><text x="30" y="174" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14.5" fill="#b9bedb">ettiradi.</text>
+<rect x="30" y="206" width="75" height="28" rx="14" fill="#a855f7" fill-opacity="0.12" stroke="#a855f7" stroke-opacity="0.5"/><text x="67.5" y="224.5" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#e8eaf6">FastAPI</text><rect x="113" y="206" width="75" height="28" rx="14" fill="#a855f7" fill-opacity="0.12" stroke="#a855f7" stroke-opacity="0.5"/><text x="150.5" y="224.5" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#e8eaf6">Next.js</text><rect x="196" y="206" width="98" height="28" rx="14" fill="#a855f7" fill-opacity="0.12" stroke="#a855f7" stroke-opacity="0.5"/><text x="245.0" y="224.5" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#e8eaf6">PostgreSQL</text><rect x="302" y="206" width="83" height="28" rx="14" fill="#a855f7" fill-opacity="0.12" stroke="#a855f7" stroke-opacity="0.5"/><text x="343.5" y="224.5" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#e8eaf6">pgvector</text><rect x="393" y="206" width="98" height="28" rx="14" fill="#a855f7" fill-opacity="0.12" stroke="#a855f7" stroke-opacity="0.5"/><text x="442.0" y="224.5" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#e8eaf6">LLM Memory</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="150" viewBox="0 0 1280 150" role="img" aria-label="Bahromjon Sherqo'ziyev"><title>Bahromjon Sherqo'ziyev</title>
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#6366f1"/><stop offset="0.55" stop-color="#a855f7"/><stop offset="1" stop-color="#22d3ee"/>
+</linearGradient>
+<linearGradient id="gh" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#6366f1"/><stop offset="0.5" stop-color="#a855f7"/><stop offset="1" stop-color="#22d3ee"/>
+</linearGradient>
+<clipPath id="r"><rect width="1280" height="150" rx="22"/></clipPath></defs>
+<g clip-path="url(#r)">
+  <rect width="1280" height="150" fill="#0a0c16"/>
+  <path fill="#6366f1" fill-opacity="0.28" d="M0 90 C 200 40, 400 140, 640 90 S 1080 40, 1280 90 V150 H0Z">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0 90 C 200 40, 400 140, 640 90 S 1080 40, 1280 90 V150 H0Z;M0 90 C 200 140, 400 40, 640 90 S 1080 140, 1280 90 V150 H0Z;M0 90 C 200 40, 400 140, 640 90 S 1080 40, 1280 90 V150 H0Z"/>
+  </path>
+  <path fill="#a855f7" fill-opacity="0.28" d="M0 105 C 240 70, 420 140, 700 105 S 1100 70, 1280 105 V150 H0Z">
+    <animate attributeName="d" dur="11s" repeatCount="indefinite" values="M0 105 C 240 70, 420 140, 700 105 S 1100 70, 1280 105 V150 H0Z;M0 105 C 240 140, 420 70, 700 105 S 1100 140, 1280 105 V150 H0Z;M0 105 C 240 70, 420 140, 700 105 S 1100 70, 1280 105 V150 H0Z"/>
+  </path>
+</g>
+<rect x="1" y="1" width="1278" height="148" rx="21" fill="none" stroke="url(#gh)" stroke-opacity="0.5"/>
+<text x="640.0" y="62" text-anchor="middle" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="26" font-weight="800" fill="#e8eaf6">Toza kod. Ishonchli backend. Aqlli tizimlar.</text>
+<text x="640.0" y="92" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#8b91b0">© Bahromjon Sherqo'ziyev  ·  Toshkent, O'zbekiston</text>
+</svg>

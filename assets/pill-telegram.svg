@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="282" height="44" viewBox="0 0 282 44" role="img" aria-label="TELEGRAM: @Bahromjon_Py"><title>TELEGRAM: @Bahromjon_Py</title>
+<defs><clipPath id="c"><rect width="282" height="44" rx="22"/></clipPath></defs>
+<g clip-path="url(#c)">
+  <rect width="120" height="44" fill="#161a36"/>
+  <rect x="120" width="162" height="44" fill="#22d3ee"/>
+  <rect x="120" width="162" height="44" fill="#ffffff" opacity="0"><animate attributeName="opacity" values="0;0.12;0" dur="3s" repeatCount="indefinite"/></rect>
+</g>
+<rect x="0.5" y="0.5" width="281" height="43" rx="21.5" fill="none" stroke="#22d3ee" stroke-opacity="0.8"/>
+<text x="60.0" y="28" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" letter-spacing="1.6" fill="#c9cdf0">TELEGRAM</text>
+<text x="201.0" y="28" text-anchor="middle" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="700" fill="#0a0c16">@Bahromjon_Py</text>
+</svg>
