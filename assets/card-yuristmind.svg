@@ -1,22 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="620" height="262" viewBox="0 0 620 262" role="img" aria-label="YuristMind AI — AI Legal Assistant"><title>YuristMind AI — AI Legal Assistant</title>
-<defs>
-<linearGradient id="cg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6366f1"/><stop offset="1" stop-color="#a855f7"/></linearGradient>
-<linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6366f1" stop-opacity="0"/><stop offset="0.5" stop-color="#6366f1"/><stop offset="1" stop-color="#6366f1" stop-opacity="0"/></linearGradient>
-<clipPath id="cl"><rect x="1" y="1" width="618" height="260" rx="20"/></clipPath>
-</defs>
-<rect x="1" y="1" width="618" height="260" rx="20" fill="#10132a" stroke="#252a52"/>
-<g clip-path="url(#cl)">
-  <circle cx="580" cy="-10" r="130" fill="#6366f1" opacity="0.10"/>
-  <rect x="-300" y="1" width="300" height="3" fill="url(#sweep)"><animate attributeName="x" values="-300;620" dur="4.5s" repeatCount="indefinite"/></rect>
-</g>
-<rect x="30" y="26" width="52" height="52" rx="14" fill="url(#cg)"/>
-<text x="56" y="62" text-anchor="middle" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="28" font-weight="800" fill="#ffffff">Y</text>
-<text x="98" y="48" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="21" font-weight="800" fill="#e8eaf6">YuristMind AI</text>
-<text x="98" y="69" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#8b91b0">AI Legal Assistant</text>
-<rect x="486" y="34" width="104" height="28" rx="14" fill="#fbbf24" fill-opacity="0.13" stroke="#fbbf24" stroke-opacity="0.55"/>
-<circle cx="502" cy="50" r="4.5" fill="#fbbf24"><animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/></circle>
-<text x="514" y="52.5" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#fbbf24">Jarayonda</text>
-<line x1="30" x2="590" y1="92" y2="92" stroke="#252a52"/>
-<text x="30" y="128" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14.5" fill="#b9bedb">O'zbekiston qonunchiligi bo'yicha semantik qidiruv va RAG: YPX,</text><text x="30" y="151" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14.5" fill="#b9bedb">iste'molchi huquqlari, mehnat nizolari kabi vaziyatlarda rasmiy</text><text x="30" y="174" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14.5" fill="#b9bedb">moddalar bilan javob beradi.</text>
-<rect x="30" y="206" width="112" height="28" rx="14" fill="#6366f1" fill-opacity="0.12" stroke="#6366f1" stroke-opacity="0.5"/><text x="86.0" y="224.5" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#e8eaf6">Python 3.11+</text><rect x="150" y="206" width="90" height="28" rx="14" fill="#6366f1" fill-opacity="0.12" stroke="#6366f1" stroke-opacity="0.5"/><text x="195.0" y="224.5" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#e8eaf6">Aiogram 3</text><rect x="248" y="206" width="98" height="28" rx="14" fill="#6366f1" fill-opacity="0.12" stroke="#6366f1" stroke-opacity="0.5"/><text x="297.0" y="224.5" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#e8eaf6">PostgreSQL</text><rect x="354" y="206" width="83" height="28" rx="14" fill="#6366f1" fill-opacity="0.12" stroke="#6366f1" stroke-opacity="0.5"/><text x="395.5" y="224.5" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#e8eaf6">pgvector</text><rect x="445" y="206" width="98" height="28" rx="14" fill="#6366f1" fill-opacity="0.12" stroke="#6366f1" stroke-opacity="0.5"/><text x="494.0" y="224.5" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#e8eaf6">Gemini API</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="262" viewBox="0 0 440 262" role="img" aria-label="YuristMind AI — AI Legal Assistant"><title>YuristMind AI — AI Legal Assistant</title><style>
+:root{--card:#f6f8fa;--fg:#1f2328;--mut:#656d76;--line:#d0d7de;--acc:#3b5bdb;--ok:#1a7f37;--wip:#9a6700;--ibg:#1f2328;--ifg:#ffffff}
+@media (prefers-color-scheme:dark){:root{--card:#12171e;--fg:#e6edf3;--mut:#8d96a0;--line:#2d333b;--acc:#8ea3ff;--ok:#3fb950;--wip:#d29922;--ibg:#e6edf3;--ifg:#0d1117}}
+text{font-family:-apple-system,'Segoe UI','Inter','Helvetica Neue',Helvetica,Arial,sans-serif}
+.mono{font-family:ui-monospace,'SFMono-Regular','JetBrains Mono',Consolas,'Liberation Mono',Menlo,monospace}
+.fg{fill:var(--fg)} .mut{fill:var(--mut)} .acc{fill:var(--acc)} .ok{fill:var(--ok)} .wip{fill:var(--wip)}
+.card{fill:var(--card)} .ibg{fill:var(--ibg)} .ifg{fill:var(--ifg)}
+.ln{stroke:var(--line);fill:none} .lnfill{fill:var(--line)}
+@keyframes fade{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
+@keyframes blink{50%{opacity:0}}
+.f1{animation:fade .6s ease .2s backwards} .f2{animation:fade .6s ease .6s backwards}
+.f3{animation:fade .6s ease 1s backwards} .f4{animation:fade .6s ease 1.4s backwards} .f5{animation:fade .6s ease 1.8s backwards}
+.cur{animation:blink 1.1s steps(1) infinite}
+</style>
+<rect x="6.5" y="6.5" width="427" height="249" rx="10" class="card"/>
+<rect x="6.5" y="6.5" width="427" height="249" rx="10" class="ln"/>
+<text x="24" y="40" class="mono mut" font-size="12">01</text>
+<circle cx="341.9" cy="36" r="3.5" class="wip"/>
+<text x="416" y="40" text-anchor="end" class="mono wip" font-size="11.5">Jarayonda</text>
+<text x="24" y="76" class="fg" font-size="19" font-weight="700" letter-spacing="-0.3">YuristMind AI</text>
+<text x="24" y="96" class="mono mut" font-size="11.5">AI Legal Assistant</text>
+<text x="24" y="128" class="mut" font-size="13.5">O'zbekiston qonunchiligi bo'yicha semantik qidiruv va</text><text x="24" y="149" class="mut" font-size="13.5">RAG: YPX, iste'molchi huquqlari, mehnat nizolari kabi</text><text x="24" y="170" class="mut" font-size="13.5">vaziyatlarda rasmiy moddalar asosida javob beradi.</text>
+<line x1="24" x2="416" y1="200" y2="200" class="ln"/>
+<text x="24" y="218" class="mono fg" font-size="11.5">Python 3.11+ / Aiogram 3 / PostgreSQL / pgvector /</text><text x="24" y="236" class="mono fg" font-size="11.5">Gemini API</text>
 </svg>

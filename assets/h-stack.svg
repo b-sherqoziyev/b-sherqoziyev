@@ -1,15 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="84" viewBox="0 0 1280 84" role="img" aria-label="Texnologik stek"><title>Texnologik stek</title>
-<defs>
-<linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-  <stop offset="0" stop-color="#6366f1"/><stop offset="0.55" stop-color="#a855f7"/><stop offset="1" stop-color="#22d3ee"/>
-</linearGradient>
-<linearGradient id="gh" x1="0" y1="0" x2="1" y2="0">
-  <stop offset="0" stop-color="#6366f1"/><stop offset="0.5" stop-color="#a855f7"/><stop offset="1" stop-color="#22d3ee"/>
-</linearGradient></defs>
-<rect x="1" y="1" width="1278" height="82" rx="18" fill="#10132a" stroke="#252a52"/>
-<rect x="1" y="1" width="8" height="82" rx="4" fill="url(#g)"/>
-<text x="44" y="52" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="20" fill="#6366f1">02</text>
-<text x="96" y="53" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#e8eaf6" letter-spacing="-0.5">Texnologik stek</text>
-<text x="1240" y="50" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#8b91b0">tech_stack[]</text>
-<rect x="96" y="66" width="60" height="3" rx="1.5" fill="url(#gh)"><animate attributeName="width" values="60;220;60" dur="5s" repeatCount="indefinite"/></rect>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="64" viewBox="0 0 880 64" role="img" aria-label="Texnologik stek"><title>Texnologik stek</title><style>
+:root{--card:#f6f8fa;--fg:#1f2328;--mut:#656d76;--line:#d0d7de;--acc:#3b5bdb;--ok:#1a7f37;--wip:#9a6700;--ibg:#1f2328;--ifg:#ffffff}
+@media (prefers-color-scheme:dark){:root{--card:#12171e;--fg:#e6edf3;--mut:#8d96a0;--line:#2d333b;--acc:#8ea3ff;--ok:#3fb950;--wip:#d29922;--ibg:#e6edf3;--ifg:#0d1117}}
+text{font-family:-apple-system,'Segoe UI','Inter','Helvetica Neue',Helvetica,Arial,sans-serif}
+.mono{font-family:ui-monospace,'SFMono-Regular','JetBrains Mono',Consolas,'Liberation Mono',Menlo,monospace}
+.fg{fill:var(--fg)} .mut{fill:var(--mut)} .acc{fill:var(--acc)} .ok{fill:var(--ok)} .wip{fill:var(--wip)}
+.card{fill:var(--card)} .ibg{fill:var(--ibg)} .ifg{fill:var(--ifg)}
+.ln{stroke:var(--line);fill:none} .lnfill{fill:var(--line)}
+@keyframes fade{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
+@keyframes blink{50%{opacity:0}}
+.f1{animation:fade .6s ease .2s backwards} .f2{animation:fade .6s ease .6s backwards}
+.f3{animation:fade .6s ease 1s backwards} .f4{animation:fade .6s ease 1.4s backwards} .f5{animation:fade .6s ease 1.8s backwards}
+.cur{animation:blink 1.1s steps(1) infinite}
+</style>
+<text x="0" y="36" class="mono acc" font-size="13">02</text>
+<text x="34" y="37" class="fg" font-size="23" font-weight="700" letter-spacing="-0.4">Texnologik stek</text>
+<text x="880" y="36" text-anchor="end" class="mono mut" font-size="12">tech_stack[]</text>
+<line x1="0" x2="880" y1="56" y2="56" class="ln"/>
 </svg>

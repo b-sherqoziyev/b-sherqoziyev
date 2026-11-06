@@ -1,20 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="620" height="262" viewBox="0 0 620 262" role="img" aria-label="Hamkorlik uchun — bahromjon.com"><title>Hamkorlik uchun — bahromjon.com</title>
-<defs>
-<linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-  <stop offset="0" stop-color="#6366f1"/><stop offset="0.55" stop-color="#a855f7"/><stop offset="1" stop-color="#22d3ee"/>
-</linearGradient>
-<linearGradient id="gh" x1="0" y1="0" x2="1" y2="0">
-  <stop offset="0" stop-color="#6366f1"/><stop offset="0.5" stop-color="#a855f7"/><stop offset="1" stop-color="#22d3ee"/>
-</linearGradient>
-<clipPath id="cl"><rect x="1" y="1" width="618" height="260" rx="20"/></clipPath></defs>
-<rect x="1" y="1" width="618" height="260" rx="20" fill="url(#g)"/>
-<g clip-path="url(#cl)">
-  <circle cx="590" cy="30" r="150" fill="#ffffff" opacity="0.10"><animate attributeName="r" values="150;190;150" dur="6s" repeatCount="indefinite"/></circle>
-  <circle cx="40" cy="262" r="110" fill="#000000" opacity="0.16"/>
-</g>
-<text x="34" y="60" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" letter-spacing="2" fill="#ffffff" fill-opacity="0.85">HAMKORLIK UCHUN</text>
-<text x="34" y="116" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#ffffff">Birgalikda yangi loyiha</text>
-<text x="34" y="154" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#ffffff">yaratamizmi?</text>
-<rect x="34" y="188" width="200" height="46" rx="23" fill="#0a0c16"/>
-<text x="134" y="217" text-anchor="middle" font-family="'Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="700" fill="#ffffff">bahromjon.com  →</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="262" viewBox="0 0 440 262" role="img" aria-label="Hamkorlik uchun — bahromjon.com"><title>Hamkorlik uchun — bahromjon.com</title><style>
+:root{--card:#f6f8fa;--fg:#1f2328;--mut:#656d76;--line:#d0d7de;--acc:#3b5bdb;--ok:#1a7f37;--wip:#9a6700;--ibg:#1f2328;--ifg:#ffffff}
+@media (prefers-color-scheme:dark){:root{--card:#12171e;--fg:#e6edf3;--mut:#8d96a0;--line:#2d333b;--acc:#8ea3ff;--ok:#3fb950;--wip:#d29922;--ibg:#e6edf3;--ifg:#0d1117}}
+text{font-family:-apple-system,'Segoe UI','Inter','Helvetica Neue',Helvetica,Arial,sans-serif}
+.mono{font-family:ui-monospace,'SFMono-Regular','JetBrains Mono',Consolas,'Liberation Mono',Menlo,monospace}
+.fg{fill:var(--fg)} .mut{fill:var(--mut)} .acc{fill:var(--acc)} .ok{fill:var(--ok)} .wip{fill:var(--wip)}
+.card{fill:var(--card)} .ibg{fill:var(--ibg)} .ifg{fill:var(--ifg)}
+.ln{stroke:var(--line);fill:none} .lnfill{fill:var(--line)}
+@keyframes fade{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
+@keyframes blink{50%{opacity:0}}
+.f1{animation:fade .6s ease .2s backwards} .f2{animation:fade .6s ease .6s backwards}
+.f3{animation:fade .6s ease 1s backwards} .f4{animation:fade .6s ease 1.4s backwards} .f5{animation:fade .6s ease 1.8s backwards}
+.cur{animation:blink 1.1s steps(1) infinite}
+</style>
+<rect x="6.5" y="6.5" width="427" height="249" rx="10" class="ibg"/>
+<text x="26" y="44" class="mono ifg" font-size="11.5" letter-spacing="2.4" opacity="0.65">HAMKORLIK UCHUN</text>
+<text x="26" y="110" class="ifg" font-size="27" font-weight="700" letter-spacing="-0.6">Birgalikda yangi</text>
+<text x="26" y="144" class="ifg" font-size="27" font-weight="700" letter-spacing="-0.6">loyiha yaratamizmi?</text>
+<line x1="26" x2="414" y1="188" y2="188" class="ifg" stroke="currentColor" style="stroke:var(--ifg);opacity:.25"/>
+<text x="26" y="222" class="ifg" font-size="15" font-weight="600">bahromjon.com</text>
+<text x="414" y="222" text-anchor="end" class="ifg" font-size="17">→</text>
 </svg>
